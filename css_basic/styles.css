@@ -18,3 +18,23 @@ aside {
   flex: 1;
   overflow-y: auto
 }
+
+table{
+  width: 50%;
+}
+
+thead td{
+  border: 3px solid black;
+  color: black;
+  font-weight: bold;
+}
+
+td{
+  border: 1px solid black;
+  padding: 5px;
+  color: blue;
+}
+
+footer a {
+  color: red;
+}
